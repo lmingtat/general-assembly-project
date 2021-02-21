@@ -60,16 +60,16 @@ Another potential viewpoint that was observed is that Republican states are more
 3. Iowa has one of the lowest graduation requirement standards at the state level<sup>6</sup>
 
 With a high base of students graduating out of high school, there is a bigger market to promote SAT to potential college-bound students. Subsequently we can also take up more market share from ACT.
-Also, Iowa has one of the lowest graduation requirements, in that they do not require students to undertake ACT/SAT to graduate<sup>6</sup>. Hence, these students who take either tests are intending to go to college. 
+Also, Iowa has one of the lowest graduation requirements, in that they do not require students to undertake ACT/SAT to graduate<sup>7</sup>. Hence, these students who take either tests are intending to go to college. 
 This coupled with the Iowa's performance in the ACT tests, we can conjecture that these students are likely to be more studious and serious with the exam.
 **Thus, it is aligned the College Board's mission to set these students up for college success and bring benefit to all stakeholders involved** (themselves, their family, the state and the country).
 
 <u>Recommendations</u>
 1. The College Board (CB) can contact the state of Iowa to sign a contract, such as Colorado or Illinois.  
-   This strong push has also help SAT expand its market share<sup>7</sup>.  
+   This strong push has also help SAT expand its market share<sup>8</sup>.  
    If the state of Iowa makes the SAT free for students who intends to go to college, then a proportion of students might not take ACT instead.
    
-2. The high composite score of Iowa in the ACT can also be attributed to good teaching of covered topics in schools<sup>8</sup>. The CB should get better coaches to help train teachers in state schools. When the confidence level of the students or parents improve, then theoretically more students will partake in SAT.
+2. The high composite score of Iowa in the ACT can also be attributed to good teaching of covered topics in schools<sup>9</sup>. The CB should get better coaches to help train teachers in state schools. When the confidence level of the students or parents improve, then theoretically more students will partake in SAT.
 
 3. Prepare test prep materials for students. Students in Iowa are currently ill-equipped for SAT, if this condition can be covered, then confidence level should rise as well.
 
@@ -81,8 +81,8 @@ This coupled with the Iowa's performance in the ACT tests, we can conjecture tha
 [2] https://www.denverpost.com/2017/03/06/colorado-juniors-sat-college-exam/  
 [3] https://chicago.chalkbeat.org/2018/7/27/21105418/illinois-has-embraced-the-sat-and-the-act-is-mad-about-it  
 [4] https://www.testive.com/illinois/  
-[5] https://www.daytondailynews.com/news/historically-low-act-scores-red-flag-for-our-country/djfx9Urp719WyEaMfykyxL/
-[5] https://www.testive.com/state-sat-act/  
-[6] https://qconline.com/news/local/education/these-4-numbers-tell-the-story-of-public-education-in-iowa/collection_3e9751ea-8939-5dde-b95b-653f96c7ab47.html#1  
-[7] https://www.washingtonpost.com/education/2018/10/23/sat-reclaims-title-most-widely-used-college-admission-test/  
-[8] https://qctimes.com/news/local/education/the-numbers-iowa-s-average-act-score-is-21-6/article_5a62d78c-6744-5979-8de4-56b3d77bd1f0.html  
+[5] https://www.daytondailynews.com/news/historically-low-act-scores-red-flag-for-our-country/djfx9Urp719WyEaMfykyxL/   
+[6] https://www.testive.com/state-sat-act/  
+[7] https://qconline.com/news/local/education/these-4-numbers-tell-the-story-of-public-education-in-iowa/collection_3e9751ea-8939-5dde-b95b-653f96c7ab47.html#1  
+[8] https://www.washingtonpost.com/education/2018/10/23/sat-reclaims-title-most-widely-used-college-admission-test/  
+[9] https://qctimes.com/news/local/education/the-numbers-iowa-s-average-act-score-is-21-6/article_5a62d78c-6744-5979-8de4-56b3d77bd1f0.html  
