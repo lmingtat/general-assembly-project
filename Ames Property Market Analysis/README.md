@@ -37,6 +37,8 @@ Lasso Model
 <span style='color:blue'>**Private Score : 31194.29992**<span>  
 **Public Score  : 28799.35619**
 
+Train and hold out set scores:
+
 | Model      | Train (RMSE) | Hold_Out (RMSE) |
 |------------|-------|----------|
 | Linear     | 23925 | 24990    |
