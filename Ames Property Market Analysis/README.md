@@ -34,6 +34,7 @@ A detailed data dictionary is available at [AMSTAT](http://jse.amstat.org/v19n3/
 The final production model we came up with had 47 predictors (which covers 28 features of any house)
 
 Lasso Model  
+Kaggle competition:  
 <span style='color:blue'>**Private Score : 31194.29992**<span>  
 **Public Score  : 28799.35619**
 
