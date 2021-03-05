@@ -2,7 +2,7 @@
 
 ### Problem Statement
 
-GA Properties (a subsidiary of GeneralAssembly) is planning to conduct a property investment seminar in Ames, Iowa. They have invited various stakeholders, from property developers to the community in Ames to attend this conference. This particular event will not only help the community to gain an edge whether they are a seller or a buyer, but also pull in interests from developers to build townships in Ames.
+GA Properties is planning to conduct a property investment seminar in Ames, Iowa. They have invited various stakeholders, from property developers to the community in Ames to attend this conference. This particular event will not only help the community to gain an edge whether they are a seller or a buyer, but also pull in interests from developers to build townships in Ames.
 
 They have consulted with us to come up with a model that can best allow them to better understand the property market in Ames.
 
