@@ -4,7 +4,7 @@
 
 The National Council of Social Service (NCSS) has contacted us on one emerging issue revolving around mental health, with more and more people taking initiative to contact NCSS for support especially during the COVID-19 period. The NCSS believes that although there has been an increase in public participation, there are a lot of people who are not aware of their condition and some might be reluctant to acknowledge their condition.
 
-**We are consulted to come with a classification model that will enable NCSS to judge the condition of anyone in the community based on their social media posts, specifically if any person in question suffers from depression.**
+**We are consulted to come up with a classification model that will enable NCSS to judge the condition of anyone in the community based on their social media posts, specifically if any person in question suffers from depression.**
 
 This will allow the social workers to quickly identify people who needs help, and with earlier medication and support, there can be better impact onto the livelihood of the affected community, or anyone in Singapore.
 
