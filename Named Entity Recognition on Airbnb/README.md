@@ -24,9 +24,7 @@ The performances are then discussed. Refer to below report for our insights, dis
 
 ### Evaluation Findings
 
-The re-trained spaCy model performed the best with a close score of 95%, followed by our Bi-LSTM model, the NLTK model and then the base spaCy model.  
-
-**Hence, if we ever need to run a model in production, we can consider to apply the spaCy model re-trained to our specific task at hand**
+**If we ever need to run a model in production, we can consider consider the approach of building your own Bi-LSTM model and re-train it to our specific task at hand**
 
 There seems to be a pattern here as well because the **re-trained** models outperform the un-retrained models.  
 This would be an extreme advantage and could even cause the models to become overfitted to our training data.
@@ -35,7 +33,7 @@ Not to mention that it is quite difficult to perform a failure analysis on each 
 
 ### Discussions
 
-It is very hard to judge each model based on a token-level evaluation. Let's look deeper into the details of each model:
+It is very hard to evaluate each model based on a token-level evaluation. Let's look deeper into the details of each model:
 
 | Model | Data                         | Data Source                                                                                                           | Model Type                 | Entities                                                                                                                              | F1 Score                |
 |-------|------------------------------|-----------------------------------------------------------------------------------------------------------------------|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------|

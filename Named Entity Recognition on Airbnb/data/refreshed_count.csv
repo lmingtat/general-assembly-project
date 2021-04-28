@@ -1,0 +1,13 @@
+place,count,nltk_count,spacy_count,spacy_retrain_count,lstm_count
+Marina Bay Sands,86,72,60,83,54
+East Coast Park,54,25,36,51,41
+Boat Quay,57,43,41,52,36
+Clarke Quay,183,170,162,185,158
+Arab Street,38,35,2,28,32
+Little India,472,374,391,499,484
+Bugis Junction,50,46,44,50,26
+Tanjong Pagar,33,36,31,48,31
+Tiong Bahru,103,77,88,110,48
+Farrer Park,65,91,79,127,83
+Holland Village,45,25,47,53,37
+Jalan Besar,48,62,36,83,36
